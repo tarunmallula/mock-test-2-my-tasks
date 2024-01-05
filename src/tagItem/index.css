@@ -1,0 +1,27 @@
+.list-item {
+  margin: 5px;
+}
+.tag-button {
+  border: 1px solid #f3aa4e;
+  background-color: transparent;
+  border-radius: 16px;
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 12px 4px 12px;
+  cursor: pointer;
+  outline: none;
+}
+.tag-outline-button {
+  border: none;
+  background-color: #f3aa4e;
+  border-radius: 16px;
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 12px 4px 12px;
+  cursor: pointer;
+  outline: none;
+}

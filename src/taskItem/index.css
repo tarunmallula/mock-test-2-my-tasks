@@ -1,0 +1,27 @@
+.list-element {
+  background-color: #1a171d;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.text {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 20px;
+}
+.task-button {
+  background-color: #f3aa4e;
+  color: #323f4b;
+  border: none;
+  border-radius: 16px;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: bold;
+  height: 30px;
+  padding: 8px 16px 8px 16px;
+  margin-right: 20px;
+}
